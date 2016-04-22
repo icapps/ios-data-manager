@@ -16,10 +16,5 @@
     "ios": "8.0",
     "osx": "10.10"
   },
-  "source_files": "DataManager/Classes/**/*",
-  "resource_bundles": {
-    "DataManager": [
-      "DataManager/Assets/*.png"
-    ]
-  }
+  "source_files": "DataManager/Classes/**/*"
 }

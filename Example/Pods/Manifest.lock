@@ -13,7 +13,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DataManager: f59923082eb47f6d8d2bb6991c0753d9a1c1f69c
+  DataManager: 2cb5a0059b8c20244a924757145cd2c1af7d6c7f
   Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
   Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
 

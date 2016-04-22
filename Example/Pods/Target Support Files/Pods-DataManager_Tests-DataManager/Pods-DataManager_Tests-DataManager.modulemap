@@ -1,0 +1,6 @@
+framework module DataManager {
+  umbrella header "Pods-DataManager_Tests-DataManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
