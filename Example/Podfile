@@ -8,6 +8,10 @@ target 'DataManager_Example', :exclusive => true do
   common_pods
 end
 
+target 'Data_Populator', :exclusive => true do
+  common_pods
+end
+
 target 'DataManager_Tests', :exclusive => true do
   common_pods
 
