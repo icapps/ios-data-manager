@@ -7,7 +7,16 @@
 //
 
 import UIKit
+import DataManager
 
 class ViewController: UIViewController {
+    
+    // MARK: - View flow
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        let _ = DataManager()
+    }
 
 }

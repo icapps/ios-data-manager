@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'D17B791F5342D1D82DB162AB'
+               BlueprintIdentifier = 'E6908C167E3754F5FFB64D1A'
                BlueprintName = 'DataManager'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'DataManager.framework'>
