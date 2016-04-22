@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'DataManager_Example', :exclusive => true do
+  pod 'DataManager', :path => '../'
+end
+
+target 'DataManager_Tests', :exclusive => true do
+  pod 'DataManager', :path => '../'
+
+  pod 'Quick', '~> 0.8'
+  pod 'Nimble', '~> 3.0'
+end
