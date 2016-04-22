@@ -1,0 +1,24 @@
+{
+  "name": "DataManager",
+  "version": "0.1.0",
+  "summary": "A short description of DataManager.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DataManager",
+  "license": "MIT",
+  "authors": {
+    "Jelle Vandebeeck": "jelle@fousa.be"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DataManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DataManager/Classes/**/*",
+  "resource_bundles": {
+    "DataManager": [
+      "DataManager/Assets/*.png"
+    ]
+  }
+}
